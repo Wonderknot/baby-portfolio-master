@@ -220,7 +220,7 @@ img {
   color: #ff7f50;
 }
 
-.project-image {
+.image {
   max-height:6.8px ;
   max-width: 7.0px;
   object-fit: cover;
