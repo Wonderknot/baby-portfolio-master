@@ -220,10 +220,10 @@ img {
   color: #ff7f50;
 }
 
-.image {
-  max-height:6.8px ;
-  max-width: 7.0px;
-  object-fit: cover;
+.project-image {
+  max-height: fit-content ;
+  max-width:fit-content ;
+  object-fit:contain;
 }
 
 .project-title {
